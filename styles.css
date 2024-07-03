@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+}
+.header {
+    display: flex;
+    margin:auto;
+    padding: 20px;
+    /* background-color: #1f2937; */
+    justify-content: center;
+}
